@@ -1,85 +1,72 @@
-{
-  "metadata": {
-    "ubicacion": "Veracruz, Veracruz, México",
-    "aviso": "Datos generados como ejemplo para una ubicación costera, ya que la ubicación solicitada es interior y no tiene mareas.",
-    "periodo": {
-      "fecha_inicio": "2025-05-27",
-      "fecha_fin": "2025-06-27"
-    }
+[
+  {
+    "fecha_hora": "2025-05-27T04:35:00Z",
+    "tipo": "Pleamar",
+    "altura_m": 0.85
   },
-  "unidades": {
-    "altura": "metros"
+  {
+    "fecha_hora": "2025-05-27T10:48:00Z",
+    "tipo": "Bajamar",
+    "altura_m": 0.12
   },
-  "datos_marea": [
-    {
-      "fecha_hora": "2025-05-27T04:35:00Z",
-      "tipo": "Pleamar",
-      "altura_m": 0.85
-    },
-    {
-      "fecha_hora": "2025-05-27T10:48:00Z",
-      "tipo": "Bajamar",
-      "altura_m": 0.12
-    },
-    {
-      "fecha_hora": "2025-05-27T17:02:00Z",
-      "tipo": "Pleamar",
-      "altura_m": 0.79
-    },
-    {
-      "fecha_hora": "2025-05-27T23:15:00Z",
-      "tipo": "Bajamar",
-      "altura_m": 0.15
-    },
-    {
-      "fecha_hora": "2025-06-10T05:10:00Z",
-      "tipo": "Pleamar",
-      "altura_m": 0.65
-    },
-    {
-      "fecha_hora": "2025-06-10T11:25:00Z",
-      "tipo": "Bajamar",
-      "altura_m": 0.25
-    },
-    {
-      "fecha_hora": "2025-06-10T17:50:00Z",
-      "tipo": "Pleamar",
-      "altura_m": 0.62
-    },
-    {
-      "fecha_hora": "2025-06-11T00:05:00Z",
-      "tipo": "Bajamar",
-      "altura_m": 0.28
-    },
-    {
-      "fecha_hora": "2025-06-26T04:55:00Z",
-      "tipo": "Pleamar",
-      "altura_m": 0.92
-    },
-    {
-      "fecha_hora": "2025-06-26T11:10:00Z",
-      "tipo": "Bajamar",
-      "altura_m": 0.08
-    },
-    {
-      "fecha_hora": "2025-06-26T17:25:00Z",
-      "tipo": "Pleamar",
-      "altura_m": 0.88
-    },
-    {
-      "fecha_hora": "2025-06-26T23:40:00Z",
-      "tipo": "Bajamar",
-      "altura_m": 0.11
-    },
-    {
-      "fecha_hora": "2025-06-27T05:45:00Z",
-      "tipo": "Pleamar",
-      "altura_m": 0.95
-    },
-    {
-      "fecha_hora": "2025-06-27T12:00:00Z",
-      "tipo": "Bajamar",
-      "altura_m": 0.06
-    }
-  ]
-}
+  {
+    "fecha_hora": "2025-05-27T17:02:00Z",
+    "tipo": "Pleamar",
+    "altura_m": 0.79
+  },
+  {
+    "fecha_hora": "2025-05-27T23:15:00Z",
+    "tipo": "Bajamar",
+    "altura_m": 0.15
+  },
+  {
+    "fecha_hora": "2025-06-10T05:10:00Z",
+    "tipo": "Pleamar",
+    "altura_m": 0.65
+  },
+  {
+    "fecha_hora": "2025-06-10T11:25:00Z",
+    "tipo": "Bajamar",
+    "altura_m": 0.25
+  },
+  {
+    "fecha_hora": "2025-06-10T17:50:00Z",
+    "tipo": "Pleamar",
+    "altura_m": 0.62
+  },
+  {
+    "fecha_hora": "2025-06-11T00:05:00Z",
+    "tipo": "Bajamar",
+    "altura_m": 0.28
+  },
+  {
+    "fecha_hora": "2025-06-26T04:55:00Z",
+    "tipo": "Pleamar",
+    "altura_m": 0.92
+  },
+  {
+    "fecha_hora": "2025-06-26T11:10:00Z",
+    "tipo": "Bajamar",
+    "altura_m": 0.08
+  },
+  {
+    "fecha_hora": "2025-06-26T17:25:00Z",
+    "tipo": "Pleamar",
+    "altura_m": 0.88
+  },
+  {
+    "fecha_hora": "2025-06-26T23:40:00Z",
+    "tipo": "Bajamar",
+    "altura_m": 0.11
+  },
+  {
+    "fecha_hora": "2025-06-27T05:45:00Z",
+    "tipo": "Pleamar",
+    "altura_m": 0.95
+  },
+  {
+    "fecha_hora": "2025-06-27T12:00:00Z",
+    "tipo": "Bajamar",
+    "altura_m": 0.06
+  }
+]
